@@ -1,0 +1,16 @@
+tirosA,tirosB,tiros_a_puertaA,tiros_a_puertaB,posesionA,posesionB,pasesA,pasesB,precision_de_los_pasesA,precision_de_los_pasesB,faltasA,faltasB,tarjetas_amarillasA,tarjetas_amarillasB,tarjetas_rojasA,tarjetas_rojasB,fueras_de_juegoA,fueras_de_juegoB,cornérsA,cornérsB{
+    display: table-cell;
+    border-spacing: 5px;
+    border: solid black 2px;
+    padding: 5px;
+    
+}
+partido{
+    display: table;
+    border: solid red 2px;
+    padding: 5px;
+}
+equipoB{
+    margin-left: 10px;
+    margin-right: 10px;
+}

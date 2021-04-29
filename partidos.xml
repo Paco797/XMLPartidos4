@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<partidos>
+<partido>
+    <equipoA>Real Madrid</equipoA>
+    <equipoB>Barcelona</equipoB>
+    <tirosA>14</tirosA>
+    <tirosB>18</tirosB>
+    <tiros_a_puertaA>3</tiros_a_puertaA>
+    <tiros_a_puertaB>4</tiros_a_puertaB>
+    <posesionA>31%</posesionA>
+    <posesionB>69%</posesionB>
+    <pasesA>316</pasesA>
+    <pasesB>707</pasesB>
+    <precision_de_los_pasesA>77%</precision_de_los_pasesA>
+    <precision_de_los_pasesB>89%</precision_de_los_pasesB>
+    <faltasA>16</faltasA>
+    <faltasB>10</faltasB>
+    <tarjetas_amarillasA>1</tarjetas_amarillasA>
+    <tarjetas_amarillasB>4</tarjetas_amarillasB>
+    <tarjetas_rojasA>1</tarjetas_rojasA>
+    <tarjetas_rojasB>0</tarjetas_rojasB>
+    <fueras_de_juegoA>0</fueras_de_juegoA>
+    <fueras_de_juegoB>1</fueras_de_juegoB>
+    <cornérsA>5</cornérsA>
+    <cornérsB>6</cornérsB>
+</partido>
+<partido>
+    <equipoA>Betis</equipoA>
+    <equipoB>Atlético de Madrid</equipoB>
+    <tirosA>8</tirosA>
+    <tirosB>10</tirosB>
+    <tiros_a_puertaA>4</tiros_a_puertaA>
+    <tiros_a_puertaB>4</tiros_a_puertaB>
+    <posesionA>55%</posesionA>
+    <posesionB>45%</posesionB>
+    <pasesA>544</pasesA>
+    <pasesB>458</pasesB>
+    <precision_de_los_pasesA>86%</precision_de_los_pasesA>
+    <precision_de_los_pasesB>82%</precision_de_los_pasesB>
+    <faltasA>12</faltasA>
+    <faltasB>13</faltasB>
+    <tarjetas_amarillasA>0</tarjetas_amarillasA>
+    <tarjetas_amarillasB>0</tarjetas_amarillasB>
+    <tarjetas_rojasA>0</tarjetas_rojasA>
+    <tarjetas_rojasB>0</tarjetas_rojasB>
+    <fueras_de_juegoA>0</fueras_de_juegoA>
+    <fueras_de_juegoB>3</fueras_de_juegoB>
+    <cornérsA>5</cornérsA>
+    <cornérsB>5</cornérsB>
+</partido>
+</partidos>
